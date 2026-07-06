@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/Radheyaa07/leetcode/tree/master/0057-insert-interval) |
 | [0455-assign-cookies](https://github.com/Radheyaa07/leetcode/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
