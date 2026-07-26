@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Radheyaa07/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1137-n-th-tribonacci-number](https://github.com/Radheyaa07/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Radheyaa07/leetcode/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Radheyaa07/leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Radheyaa07/leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
