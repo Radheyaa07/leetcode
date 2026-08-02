@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Radheyaa07/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Radheyaa07/leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Radheyaa07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Radheyaa07/leetcode/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Radheyaa07/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0877-stone-game](https://github.com/Radheyaa07/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Radheyaa07/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Linked List
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Radheyaa07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Radheyaa07/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Radheyaa07/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -77,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Radheyaa07/leetcode/tree/master/0611-valid-triangle-number) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Radheyaa07/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
