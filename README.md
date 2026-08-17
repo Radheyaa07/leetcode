@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Radheyaa07/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Radheyaa07/leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Radheyaa07/leetcode/tree/master/0611-valid-triangle-number) |
+| [0670-maximum-swap](https://github.com/Radheyaa07/leetcode/tree/master/0670-maximum-swap) |
 | [0969-pancake-sorting](https://github.com/Radheyaa07/leetcode/tree/master/0969-pancake-sorting) |
 ## Sorting
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Radheyaa07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0670-maximum-swap](https://github.com/Radheyaa07/leetcode/tree/master/0670-maximum-swap) |
 | [0877-stone-game](https://github.com/Radheyaa07/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Radheyaa07/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
