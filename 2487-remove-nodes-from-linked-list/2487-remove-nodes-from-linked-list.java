@@ -42,7 +42,6 @@ class Solution {
            max=curr.val;
         }
     }
-    head=reverse(head);
-    return head;
+   return  reverse(head);
     }
 }
