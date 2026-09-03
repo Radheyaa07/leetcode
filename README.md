@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Radheyaa07/leetcode/tree/master/0002-add-two-numbers) |
+| [0319-bulb-switcher](https://github.com/Radheyaa07/leetcode/tree/master/0319-bulb-switcher) |
 | [0445-add-two-numbers-ii](https://github.com/Radheyaa07/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Radheyaa07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/Radheyaa07/leetcode/tree/master/0670-maximum-swap) |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Radheyaa07/leetcode/tree/master/0724-find-pivot-index) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Radheyaa07/leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
