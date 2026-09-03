@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Radheyaa07/leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Radheyaa07/leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Radheyaa07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/Radheyaa07/leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Radheyaa07/leetcode/tree/master/0877-stone-game) |
 | [0969-pancake-sorting](https://github.com/Radheyaa07/leetcode/tree/master/0969-pancake-sorting) |
 ## Two Pointers
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Radheyaa07/leetcode/tree/master/0078-subsets) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Radheyaa07/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
