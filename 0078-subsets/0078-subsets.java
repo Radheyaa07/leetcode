@@ -1,16 +1,16 @@
 class Solution {
-    private void solve(int index,int[] nums,List<Integer>res,List<List<Integer>>ans){
-        ans.add(new ArrayList<>(res));
+    private void solve(int index,int[]nums,List<Integer>curr,List<List<Integer>>ans){
+        ans.add(new ArrayList<>(curr));
         for(int i=index;i<nums.length;i++){
-            res.add(nums[i]);
-            solve(i+1,nums,res,ans);
-            res.remove(res.size()-1);
+            curr.add(nums[i]);
+            solve(i+1,nums,curr,ans);
+            curr.remove(curr.size()-1);
         }
     }
     public List<List<Integer>> subsets(int[] nums) {
-      List<List<Integer>>ans=new ArrayList<>();
-     List<Integer>res=new ArrayList<>();
-     solve(0,nums,res,ans);
+     List<Integer>curr=new ArrayList<>();
+     List<List<Integer>>ans=new ArrayList<>();
+     solve(0,nums,curr,ans);
      return ans;
     }
 }
