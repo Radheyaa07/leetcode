@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Radheyaa07/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0179-largest-number](https://github.com/Radheyaa07/leetcode/tree/master/0179-largest-number) |
+| [0301-remove-invalid-parentheses](https://github.com/Radheyaa07/leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Radheyaa07/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Radheyaa07/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Radheyaa07/leetcode/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Radheyaa07/leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Radheyaa07/leetcode/tree/master/0319-bulb-switcher) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Radheyaa07/leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
