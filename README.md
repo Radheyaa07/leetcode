@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Radheyaa07/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Radheyaa07/leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Radheyaa07/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Radheyaa07/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Radheyaa07/leetcode/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/Radheyaa07/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Radheyaa07/leetcode/tree/master/0179-largest-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Radheyaa07/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/Radheyaa07/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Radheyaa07/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Radheyaa07/leetcode/tree/master/0179-largest-number) |
 | [0301-remove-invalid-parentheses](https://github.com/Radheyaa07/leetcode/tree/master/0301-remove-invalid-parentheses) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Radheyaa07/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Radheyaa07/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Radheyaa07/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Radheyaa07/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Radheyaa07/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Radheyaa07/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Radheyaa07/leetcode/tree/master/0216-combination-sum-iii) |
@@ -188,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Radheyaa07/leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Radheyaa07/leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Radheyaa07/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
