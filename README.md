@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Radheyaa07/leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Radheyaa07/leetcode/tree/master/0877-stone-game) |
 | [0969-pancake-sorting](https://github.com/Radheyaa07/leetcode/tree/master/0969-pancake-sorting) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Radheyaa07/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Radheyaa07/leetcode/tree/master/0079-word-search) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Radheyaa07/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
