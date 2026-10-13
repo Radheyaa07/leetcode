@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Radheyaa07/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Radheyaa07/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Radheyaa07/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Radheyaa07/leetcode/tree/master/0040-combination-sum-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Radheyaa07/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Radheyaa07/leetcode/tree/master/0035-search-insert-position) |
 | [0611-valid-triangle-number](https://github.com/Radheyaa07/leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Radheyaa07/leetcode/tree/master/0704-binary-search) |
