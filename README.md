@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Radheyaa07/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Radheyaa07/leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Radheyaa07/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Radheyaa07/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Radheyaa07/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Radheyaa07/leetcode/tree/master/0046-permutations) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Radheyaa07/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Radheyaa07/leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Radheyaa07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Radheyaa07/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0575-distribute-candies](https://github.com/Radheyaa07/leetcode/tree/master/0575-distribute-candies) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Radheyaa07/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Radheyaa07/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Radheyaa07/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Radheyaa07/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Radheyaa07/leetcode/tree/master/0046-permutations) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Radheyaa07/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Radheyaa07/leetcode/tree/master/0079-word-search) |
 ## Enumeration
 |  |
@@ -213,5 +217,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Radheyaa07/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Radheyaa07/leetcode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Radheyaa07/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
