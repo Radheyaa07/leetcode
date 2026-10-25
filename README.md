@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Radheyaa07/leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Radheyaa07/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/Radheyaa07/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/Radheyaa07/leetcode/tree/master/0877-stone-game) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Radheyaa07/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Radheyaa07/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Radheyaa07/leetcode/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/Radheyaa07/leetcode/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/Radheyaa07/leetcode/tree/master/0319-bulb-switcher) |
 | [0445-add-two-numbers-ii](https://github.com/Radheyaa07/leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Radheyaa07/leetcode/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Radheyaa07/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## String
 |  |
