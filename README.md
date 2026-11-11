@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Radheyaa07/leetcode/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/Radheyaa07/leetcode/tree/master/0319-bulb-switcher) |
 | [0445-add-two-numbers-ii](https://github.com/Radheyaa07/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0507-perfect-number](https://github.com/Radheyaa07/leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Radheyaa07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/Radheyaa07/leetcode/tree/master/0670-maximum-swap) |
 | [0877-stone-game](https://github.com/Radheyaa07/leetcode/tree/master/0877-stone-game) |
