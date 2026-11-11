@@ -4,9 +4,11 @@ class Solution {
             return 0;
         }
         boolean[] isPrime=new boolean[n];
+        isPrime[0]=false;
+        isPrime[1]=true;
         Arrays.fill(isPrime,true);
         int count=0;
-        for(int i=2;i<n;i++){
+        for(int i=2;i*i<n;i++){
             if(isPrime[i]){
                 for(int j=i*i;j<n;j++){
                     isPrime[j]=false;
