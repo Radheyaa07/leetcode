@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Radheyaa07/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Radheyaa07/leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Radheyaa07/leetcode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Radheyaa07/leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Radheyaa07/leetcode/tree/master/0216-combination-sum-iii) |
 | [0435-non-overlapping-intervals](https://github.com/Radheyaa07/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Radheyaa07/leetcode/tree/master/0455-assign-cookies) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Radheyaa07/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Radheyaa07/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Radheyaa07/leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Radheyaa07/leetcode/tree/master/0204-count-primes) |
 | [0282-expression-add-operators](https://github.com/Radheyaa07/leetcode/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/Radheyaa07/leetcode/tree/master/0319-bulb-switcher) |
 | [0445-add-two-numbers-ii](https://github.com/Radheyaa07/leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Radheyaa07/leetcode/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Radheyaa07/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Algorithm X
 |  |
@@ -237,4 +240,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Radheyaa07/leetcode/tree/master/0037-sudoku-solver) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Radheyaa07/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Radheyaa07/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Radheyaa07/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Radheyaa07/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
