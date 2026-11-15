@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Radheyaa07/leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Radheyaa07/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Radheyaa07/leetcode/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/Radheyaa07/leetcode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Radheyaa07/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Radheyaa07/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Radheyaa07/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Radheyaa07/leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Radheyaa07/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Radheyaa07/leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Radheyaa07/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Radheyaa07/leetcode/tree/master/0198-house-robber) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Radheyaa07/leetcode/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/Radheyaa07/leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Radheyaa07/leetcode/tree/master/0079-word-search) |
 ## Enumeration
 |  |
